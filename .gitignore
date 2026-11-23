@@ -1,0 +1,8 @@
+/Debug/
+/Release/
+.DS_Store
+__pycache__/
+.venv/
+.idea/
+logs/
+/tests/hardware-backups/
